@@ -1,1 +1,1 @@
-{"software":"HISAT2","version":"2.1.0","is_binary":"n","compression":"zip","compile_method":"make","os":"-","url":"ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/downloads/hisat2-2.1.0-source.zip","how_get":"download"}
+{"software":"HISAT2","version":"2.1.0","is_binary":"n","compression":"zip","compile_method":"make","os":"-","url":"ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/downloads/hisat2-2.1.0-source.zip","how_get":"download","sub_folder":"hisat2-2.1.0"}
