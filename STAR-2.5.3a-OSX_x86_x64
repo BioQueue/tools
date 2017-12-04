@@ -1,0 +1,1 @@
+{"software":"STAR","version":"2.5.3a","is_binary":"y","os":"OSX_x86_x64","compression":"targz","compile_method":"n","url":"https://github.com/alexdobin/STAR/archive/2.5.3a.tar.gz","how_get":"download","sub_folder":"STAR-2.5.3a","compile_targets":"STAR-2.5.3a/bin/MacOSX_x86_64/STAR;STAR-2.5.3a/bin/MacOSX_x86_64/STARlong;"}
