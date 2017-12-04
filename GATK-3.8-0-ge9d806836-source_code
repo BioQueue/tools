@@ -1,0 +1,1 @@
+{"software":"GATK","version":"3.8-0-ge9d806836","is_binary":"n","os":"-","compression":"tarbz2","compile_method":"n","url":"https://github.com/BioQueue/dependent-packages-backup/blob/master/GenomeAnalysisTK-3.8-0.tar.bz2?raw=true","how_get":"download","sub_folder":"GenomeAnalysisTK-3.8-0-ge9d806836","compile_targets":"GenomeAnalysisTK-3.8-0-ge9d806836/GenomeAnalysisTK.jar"}
