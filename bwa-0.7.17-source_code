@@ -1,1 +1,1 @@
-{"software":"bwa","version":"0.7.17","is_binary":"n","os":"-","compression":"tarbz2","compile_method":"make","url":"https://github.com/lh3/bwa/archive/v0.7.17.tar.gz","how_get":"download","sub_folder":"bwa-0.7.17","compile_targets":"bwa-0.7.17/bwa"}
+{"software":"bwa","version":"0.7.17","is_binary":"n","os":"-","compression":"targz","compile_method":"make","url":"https://github.com/lh3/bwa/archive/v0.7.17.tar.gz","how_get":"download","sub_folder":"bwa-0.7.17","compile_targets":"bwa-0.7.17/bwa"}
