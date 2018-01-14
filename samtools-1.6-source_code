@@ -1,0 +1,1 @@
+{"software":"samtools","version":"1.6","is_binary":"n","os":"-","compression":"tarbz2","compile_method":"configure-make-makeinstall","url":"https://github.com/samtools/samtools/releases/download/1.6/samtools-1.6.tar.bz2","how_get":"download","sub_folder":"samtools-1.6","compile_targets":"n"}
